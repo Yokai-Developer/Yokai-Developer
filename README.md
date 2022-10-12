@@ -24,18 +24,18 @@
 ___
 ### :hammer_and_wrench: Языки и инструменты :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>
 </div>
 
 ___
 ### 📧 Мои контакты :
 <div>
   <a href="https://t.me/mem3nto_m0ri">
-    <img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" width="40" height="40"&nbsp;/>
+    <img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="t.me/mem3nto_m0ri" width="40" height="40"/>
   </a>
   <a href="https://vk.com/mem3nto_m0ri">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40"&nbsp;/>
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" alt="vk.com" width="40" height="40"/>
   </a>
 </div>
 
