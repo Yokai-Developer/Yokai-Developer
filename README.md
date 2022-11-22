@@ -1,5 +1,5 @@
 <h1 align="center">
-  Всем привет, меня зовут Виктор.
+  Всем привет, меня зовут Виктор
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="header" align="center">
@@ -26,6 +26,7 @@ ___
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="pycharm" width="40" height="40"/>
 </div>
 
 ___
