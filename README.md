@@ -26,7 +26,9 @@ ___
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="pycharm" width="40" height="40"/>
+  <!--
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  -->
 </div>
 
 ___
